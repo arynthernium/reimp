@@ -1,0 +1,20 @@
+{
+  "name": "@arynthernium/reimp",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A reimplementation of various Javascript features. Don't actually use this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arynthernium/reimp.git"
+  },
+  "author": "arynthernium",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/arynthernium/reimp/issues"
+  },
+  "homepage": "https://github.com/arynthernium/reimp#readme"
+}
